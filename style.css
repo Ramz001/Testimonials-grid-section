@@ -59,7 +59,7 @@ body{
     .user-5{
         grid-column: 1 !important;
         grid-row: 7 / 9!important;
-        
+        width: 140%;
     }
 
     .quote-svg{
