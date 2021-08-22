@@ -112,7 +112,7 @@ body{
 }
 /* /background-info*/
 
-.user-heading span{
+.user-heading div{
     flex-direction: column;
     margin-left: 0.5rem;
     line-height: 0.5;
