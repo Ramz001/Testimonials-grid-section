@@ -175,8 +175,8 @@ body{
 */
 @media (max-width: 500px){
     .container{
-        grid-template-columns: 23rem  ;
-        grid-template-rows: repeat(9, 13rem);
+        grid-template-columns: 25rem  ;
+        grid-template-rows: repeat(9, 15rem);
         grid-area: 
             "user-1"
             "user-2"
