@@ -175,7 +175,7 @@ body{
 */
 @media (max-width: 500px){
     .container{
-        grid-template-columns: 115%  ;
+        grid-template-columns: 1fr;
         grid-template-rows: repeat(9, 15rem);
         grid-area: 
             "user-1"
@@ -184,7 +184,7 @@ body{
             "user-4"
             "user-5";
         grid-gap: 2rem;
-        padding: 2rem 1rem 0 0;
+        padding: 2rem 0 0 0;
     }
 
     .user-1{
