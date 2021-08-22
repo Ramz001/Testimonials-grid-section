@@ -187,6 +187,7 @@ body{
     }
 
     .user-1{
+        margin: 0 1rem;
         grid-row: 1 / 3;
     }
     
